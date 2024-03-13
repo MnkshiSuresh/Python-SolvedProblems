@@ -11,3 +11,4 @@ lists=input("enter the numbers seperated by space: ")
 data=lists.split()
 print(delete(data))
 
+
