@@ -7,6 +7,9 @@ def delete(data):
     else:
         return data
         
+
+
+
 lists=input("enter the numbers seperated by space: ")  
 data=lists.split()
 print(delete(data))
