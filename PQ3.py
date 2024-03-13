@@ -12,3 +12,4 @@ data=lists.split()
 print(delete(data))
 
 
+
