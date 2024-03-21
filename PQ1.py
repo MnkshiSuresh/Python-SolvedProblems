@@ -1,5 +1,5 @@
 # Write a Python function that takes a positive integer and returns the sum of the cube of all positive integers smaller than the specified number.
-
+     
 def cubing(data):
     sum = 0
     for i in range(1,data+1):
