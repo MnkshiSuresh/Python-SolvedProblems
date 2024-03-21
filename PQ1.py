@@ -5,7 +5,7 @@ def cubing(data):
     for i in range(1,data+1):
         sum = sum + i**3  
     return sum      
-        
+          
 
 num=int(input("enter the number: "))
 result=cubing(num)
