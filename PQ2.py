@@ -2,7 +2,7 @@
 
 n= int(input("enter the number"))
 diff=n-17
-if di   ff<0:
+if diff<0:
     diff=diff*-1
 if diff>17:
     print(2*diff)
