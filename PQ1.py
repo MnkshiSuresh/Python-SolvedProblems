@@ -9,5 +9,5 @@ def cubing(data):
          
     
 num=int(input("enter the number: "))
-result=cubing(num)
+result=cubing(num)   
 print(result)
