@@ -3,4 +3,6 @@
 print("enter the value of x:")
 x=input("enter here: ")
 y=int(x=="true")
+z=(x=="true")
+print(z)
 print(y)
