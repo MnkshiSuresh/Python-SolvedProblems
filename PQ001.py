@@ -12,3 +12,4 @@ num=int(input("enter the number: "))
 result=cubing(num)   
 print(result)
   
+  
